@@ -1,0 +1,3 @@
+C:/Users/Servio T/CLionProjects/ACM/StraightFoward/UVa_11172/cmake-build-debug/CMakeFiles/UVa_11172.dir
+C:/Users/Servio T/CLionProjects/ACM/StraightFoward/UVa_11172/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Servio T/CLionProjects/ACM/StraightFoward/UVa_11172/cmake-build-debug/CMakeFiles/rebuild_cache.dir
