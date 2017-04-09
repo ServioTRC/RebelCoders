@@ -1,0 +1,3 @@
+C:/Users/Servio T/PycharmProjects/ACM/StraightFoward/UVa_11547/cmake-build-debug/CMakeFiles/UVa_11547.dir
+C:/Users/Servio T/PycharmProjects/ACM/StraightFoward/UVa_11547/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Servio T/PycharmProjects/ACM/StraightFoward/UVa_11547/cmake-build-debug/CMakeFiles/rebuild_cache.dir
